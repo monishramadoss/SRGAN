@@ -1,6 +1,11 @@
 # SRGAN
 super-resolution gan following https://arxiv.org/abs/1609.04802
 
+## Youtube
+link:
+
+https://www.youtube.com/watch?v=674UK_dJz4Y
+
 ## Installation
 This requires pytorch, tqdm, torchvision, tensorboardX  to be installed
 
@@ -17,3 +22,4 @@ For testing run `Python eval.py`
 3. Commit your changes: `git commit -am 'Add some feature'`
 4. Push to the branch: `git push origin my-new-feature`
 5. Submit a pull request :D
+
