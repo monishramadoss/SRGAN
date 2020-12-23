@@ -2,7 +2,7 @@
 super-resolution gan following https://arxiv.org/abs/1609.04802
 
 ## Youtube
-link:
+check out the tutorial (pardon the production issues its my first time streaming):
 
 https://www.youtube.com/watch?v=674UK_dJz4Y
 
