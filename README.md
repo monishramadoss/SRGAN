@@ -2,7 +2,7 @@
 super-resolution gan following https://arxiv.org/abs/1609.04802
 
 ## Installation
-This requires pytorch to be installed
+This requires pytorch, tqdm, torchvision, tensorboardX  to be installed
 
 ## Data download
 To download data run `Python data.py`
